@@ -13,4 +13,4 @@ Contact
 
 ---
 
-© 2026 Cavalier Blanc Inc.
+© 2026 Stéphane Thibault
